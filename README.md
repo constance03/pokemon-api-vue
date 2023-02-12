@@ -23,7 +23,7 @@ The Pokemon API with Vue is a website with cards and information about Pokemons,
 ![aboutme-page](./src/assets/aboutme-page.png)
 
 ## **Deploy**
-[Link deploy]()
+[Link deploy](https://pokeapi-vue.vercel.app/)
 
 ## **How can I run this project?**
 
